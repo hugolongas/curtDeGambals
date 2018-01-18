@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<TITLE>Curt de Gambals - Noticies</title>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+	primer="imatge";
+	$(document).ready(function(){
+	$("#formimatge").show();
+	$(".selectipus").click(function(e){
+		tipus=e.target.value;
+		$("#form"+tipus).show();
+		$("#form"+primer).hide();
+		primer=tipus;
+		});
+	});
+</script>
+<style type="text/css">
+.opcio{
+	width:950px;
+	height:460px;
+	border:1px solid black;
+	position:absolute;
+	display:none;
+}
+
+</style>
+</head>
+<body>
+	<div id="selector">
+		<button class="selectipus" value="imatge">Imatge</button>
+		<button class="selectipus" value="video">Video</button>
+		<button class="selectipus" value="curt">Curt</button>
+	</div>
+	<div id="formimatge" class="opcio">
+		Imatge
+		<form id="imatges" name="formimatg" action="crea_galeria.php">
+			<label>Titol:<input type="text" name="titol"></input></label>
+			<label>Imatge:<input type="file" name="imatge"></input></label>
+			<input type="hidden" name="tipus" value="imatge"></input>
+		</form>
+	</div>
+	<div id="formvideo" class="opcio">
+		Video
+	</div>
+	<div id="formcurt" class="opcio">
+		Curts
+	</div>
+</body>
+</html>

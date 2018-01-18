@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<TITLE>Curt de Gambals - GESTOR DE CONTINGUTS</title>
+<meta charset="UTF-8">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<style type="text/css">
+body{
+	width:1000px;
+	height:560px;
+}
+#menu{
+	float:left;
+	width:150px;
+	height:560px;
+	letter-spacing:2px;
+}
+#content{
+	float:left;
+	width:850px;
+	height:560px;
+}
+#f_continguts{
+	width:1000px;
+	height:560px;
+	border:0px;
+}
+</style>
+<script>
+ $(document).ready(function(){
+	$(".sec").click(function(e){
+		ves=e.target.id;
+		link="gest_"+ves+".php";
+		$("#f_continguts").attr("src",link);
+	});
+});
+</script>
+</head>
+<body>
+<h1>GESTOR DE CONTINGUTS</h1>
+<div id="menu">
+	<span style="text-decoration:underline;font-size:20px;">Seccions:</span>
+	<div id="noticies" class="sec">Noticies</div>
+	<div id="galeria"  class="sec">Galeria</div>
+	<div id="concurs"  class="sec">Concurs</div>
+</div>
+<div id="content">
+	<iframe id="f_continguts" name="continguts"></iframe>
+</div>
+</body>
+</html> 

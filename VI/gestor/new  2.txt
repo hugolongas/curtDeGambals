@@ -1,0 +1,21 @@
+	'AMV','April and June','Calor humano','El pela ajos','La boca del león'
+	'2013','2013','2013','2011','2013'
+	
+	'Alex Mesa','Marc Nadal','Marc Nadal','Irene Hernanz','Alfonso Garcia'	
+	
+	' ','1989','1989',' ','1974'	 
+	
+	'alex25654@hotmail.com','marc@marcnadal.com','marc@marcnadal.com','irene.hernanz@movibeta.com','alfonclub@gmail.com'
+	
+	'Aunque cambiemos el final sigue siendo dramatico, urge cambiar el principio','April planea la fuga de un manicomio, pero no quiere irse sin June, una paciente adaptada al sistema implantado que no quiere dejar esa tranquilidad, April trata de convencerla para buscar la libertad. Una de las dos formas de vida tiene que desaparecer.','Pensar en una vida que nace y será real y otra que fue una preocupación inútil. He sentido la felicidad, se que lo que busco existe.','Rubén deja a Ana el día de Navidad. Suenan alegres villancicos mientras él recoge sus cosas y confiesa algunos trapos sucios. Pero aún queda algo más, un regalo de Navidad que Ana no puede ni imaginar.','Una fuerte depresión abocó al Sr. Montalvo a vivir obsesionado por el mundo de los muertos. Pero este macabro juego ha llegado demasiado lejos y sólo una última llamada de auxilio podría acabar con su locura.'
+	
+	'http://festival.movibeta.com/almacenamiento/pages/descarga.php?id=85693&cseguridad=52129305233182995898 79453230094202989721','http://festival.movibeta.com/almacenamiento/pages/descarga.php?id=44473&cseguridad=48990822711102623954 76688954854665905049','http://festival.movibeta.com/almacenamiento/pages/descarga.php?id=84347&cseguridad=39630740483131958434 2834681407892618553','http://festival.movibeta.com/almacenamiento/pages/descarga.php?id=56776&cseguridad=93042327099580910552 16904336274630572972','http://festival.movibeta.com/almacenamiento/pages/descarga.php?id=85311&cseguridad=26543258695118385632 84707470370731729182'
+    
+			
+	
+
+
+	
+	
+	
+													

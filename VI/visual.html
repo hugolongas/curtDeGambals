@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<TITLE>Curt de Gambals - visualitzador de iframes</title>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<style type="text/css">
+#visu_gal{
+	width:980px;
+	height:450px;
+	margin:10px;
+	border:0px;
+	overflow:hidden;
+}
+#men_gal{
+	width:440px;
+	text-align:center;
+	margin-top:25px;
+}
+.boto_gal{
+	float:left;
+	width:90px;
+	margin-left:10px;
+	margin-right:10px;
+	font-family:"walking";
+	font-size:25px;
+}
+#visu_con{
+	width:1000px;
+	height:560px;
+	border:0px;
+	margin:0px;
+	overflow:hidden;
+}
+#visu_noticies{
+	width:390px;
+	height:470px;
+	border:0px;
+	overflow:scroll;
+}
+#visu_noticies1{
+	width:390px;
+	height:470px;
+	border:0px;
+	overflow:scroll;
+}
+#visu_noticies2{
+	width:390px;
+	height:470px;
+	border:0px;
+	overflow:scroll;
+}
+.fines{
+	width:1000px;
+	height:580px;
+	border:1px solid red;
+	position:absolute;
+	display:none;
+}
+.bot{
+	width:250px;
+	height:20px;
+	float:left;	
+}
+#botons{
+	width:750px;
+	height:20px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.veure{
+	display:inline;
+}
+</style>
+<script>
+primer="noticies";
+$(document).ready(function(){
+	$(".bot").click(function(e){
+		aquest=e.target.id;
+		$("#f_"+primer).removeClass("veure");
+		$("#f_"+aquest).addClass("veure");
+		primer=aquest;
+	});
+	$("button").click(function(e){
+		actua=e.target.id;
+		ifr="#visu_"+actua;
+		dir=$(ifr).attr("src");
+		$(ifr).attr("src", dir);
+	});
+});
+</script>
+</head>
+<body>
+Curt de Gambals - visualitzador de iframes:
+<div id="botons">
+	<div id="noticies" class="bot">Noticies</div>
+	<div id="galeria" class="bot">Galeria</div>
+	<div id="concurs" class="bot">Concurs</div>
+</div>
+<div id="f_noticies" class="fines veure">
+ <div>Noticies:<button id="noticies">Actualiza</button>:<button id="noticies1">Actualiza</button>:<button id="noticies2">Actualiza</button></div>
+<iframe id="visu_noticies" name="v_notices_n" src="noticiespre.php"  scrolling="no">Si no visualitza el contingut, cliquegi aqui per anar a les <a href="noticies.php" target="_blank">notices</a> s'obriran en una nova finestra</iframe>
+<iframe id="visu_noticies1" name="v_notices_n" src="cas/noticiespre.php"  scrolling="no">Si no visualitza el contingut, cliquegi aqui per anar a les <a href="noticies.php" target="_blank">notices</a> s'obriran en una nova finestra</iframe>
+<iframe id="visu_noticies2" name="v_notices_n" src="en/noticiespre.php"  scrolling="no">Si no visualitza el contingut, cliquegi aqui per anar a les <a href="noticies.php" target="_blank">notices</a> s'obriran en una nova finestra</iframe>
+</div>
+<div id="f_galeria"  class="fines">
+Galeria:<button id="gal">Actualiza</button>
+	<div id="men_gal">
+		<div id="tot_gal" class="boto_gal">TOTS</div>
+		<div id="vid_gal" class="boto_gal">VIDEOS</div>
+		<div id="img_gal" class="boto_gal">IMATGES</div>
+		<div id="cur_gal" class="boto_gal">CURTS</div>
+	</div>
+<iframe id="visu_gal" name="galeria" src="galeriapre.php"  scrolling="no"></iframe>
+</div>
+
+<div id="f_concurs"  class="fines">
+Concurs:<button id="con">Actualiza</button>
+<iframe id="visu_con" name="concurs" src="concurspre.php" scrolling="no"></iframe>
+</div>
+</body>
+</html> 

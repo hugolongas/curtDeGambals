@@ -1,0 +1,475 @@
+/**********************************************************************************************************/
+/*********************************FULLA D'ESTILS DE LA WEB CURT DE GAMBALS*********************************/
+/****************************************autor:Hugo Longás Costa*******************************************/
+/****************************************email:hugolo3@gmail.com*******************************************/
+/*********************************drets reservats a l'aliança Lliçà d'Amunt********************************/
+/******************************************web:lalianca.cat************************************************/
+/**********************************************************************************************************/
+
+/*inici de les fonts personalitzades*/
+@font-face{
+	font-family:'walking';
+	src: url('../fonts/walking.otf');
+}
+@font-face{
+	font-family:'aller';
+	src: url('../fonts/Aller_Bd.otf');
+}
+@font-face{
+	font-family:'days';
+	src: url('../fonts/days.otf');
+}
+/*fi de les fonts personalitzades*/
+
+body{
+	margin:0px;
+	background-image:url('../img/background.jpg');
+	background-size:cover;
+	font-family:"aller";
+	color:#97A5A5;
+}
+img{
+	border:0px;
+}
+#contenedor{
+width:100%;
+}
+/*inici HEADER*/
+#header{
+	width:1000px;
+	height:40px;
+	margin:auto;
+}
+.logo{
+	float:right;
+	margin-top:5px;
+	margin-right:5px;
+	width:120px;
+	height:90px;
+}
+#follow{
+	width:100px;
+	height:40px;
+	float:right;
+	margin-right:15px;
+	margin-top:10px;
+}
+.tit_fol{
+	text-decoration:underline;
+	font-size:18px;
+}
+#idioma{
+	float:right;
+}
+.tit{
+	display:block;
+	float:left;
+	margin-left:5px;
+	margin-bottom:0px;
+	letter-spacing:2px;
+	color:white;
+	font-size:40px;
+	padding:0px;
+	width:700px;
+	height:40px;
+}
+/*fi HEADER*/
+
+/*Inici NAV*/
+#nav{
+	width:100%;
+	height:150px;
+	margin-top:60px;
+	background-color:#000103;
+}
+#banner{
+ display:block;
+ position:relative;
+ margin:auto;
+}
+
+#men_tit{
+	position:relative;
+	width:450px;
+	height:60px;
+	z-index:10;
+	margin-left:275px;
+	margin-top:-150px;
+	overflow:hidden;
+}
+#fons_menu{
+	position:relative;
+	width:3150px;
+	height:50px;
+}
+.enunciat{
+	float:left;
+	width:450px;
+	height:50px;
+	color:#5C0000;
+	font-family:"walking";
+	font-size:60px;
+	text-align:center;
+	margin-right:10px;
+}
+	/* inici men_bot de botons*/
+#cont_nav{
+	position:relative;
+	width:1000px;
+	height:150px;
+	z-index:10;
+	margin:auto;
+	margin-top:-150px;
+}
+#contbot{
+	 padding:0px;
+	 margin:0px;
+	 height:150px;
+	 width:1000px;
+}
+.boto{
+	display:block;
+	position:relative;
+	font-size:25px;
+	font-weight:bold;
+	cursor:pointer;
+	color:white;
+	font-family:"walking";
+}
+.boto_seleccionat{
+	color:orange;
+}
+		/*posicio botons*/
+#inici{
+	width:55px;
+	top:0px;
+	left:10px;
+}
+#participa{
+	width:140px;
+	top:20px;
+	left:10px;
+}
+#contacte{
+	width:167px;
+	top:41px;
+	margin:0px;
+	left:10px;
+}
+#galeria{
+	width:108px;
+	top:-85px;
+	left:882px;
+	text-align:right;
+}
+#pasades{
+	width:115px;
+	text-align:right;
+	top:-80px;
+	left:875px;
+}
+#concurs{
+	width:115px;
+	text-align:right;
+	top:-75px;
+	left:875px;
+}
+.spasa{
+	display:block;
+	margin-top:-13px;
+}
+		/*fi posicio botons*/
+	/*fi men_bot de botons*/
+/* fi del NAV*/
+
+/*inici CONTENT*/
+	
+#contenedor1{
+	margin-top:10px;
+	z-index:12;
+}
+#content{
+	width:1000px;
+	overflow:hidden;
+	margin:auto;
+	background-color:#000103;
+	box-shadow: 0px 0px 8px 3px #000110 inset;
+}
+#moqueta{
+	position:relative;
+	width:6000px;
+}
+	/*class generals*/
+.contingut{
+	float:left;
+	width:1000px;
+	height:560px;
+}
+.present{
+	float:left;
+	width:460px;
+	height:560px;
+	margin-left:10px;
+	text-align:justify;
+	padding:10px;
+}
+#participa_info2{
+	float:left;
+	width:420px;
+	height:560px;
+	margin-left:50px;
+	text-align:justify;
+	padding:10px;
+}
+	/*fi class generals*/
+
+/*inici de cont_inici*/
+#visu_noticies{
+	width:346px;
+	height:470px;
+	border:0px;
+	overflow:hidden;
+	margin-left:50px;
+}
+#n_botons{
+	position:relative;
+	top:-490px;
+	left:430px;
+	width:50px;
+	height:100px;
+}
+#n_ant{
+	width:40px;
+	height:40px;
+	margin-left:5px;
+	margin-top:1px;
+	background-image:url('../img/ant.png');
+}
+#n_seg{
+	width:40px;
+	height:40px;
+	margin-left:5px;
+	margin-top:10px;
+	background-image:url('../img/seg.png');
+}
+	/*fi de cont_inici*/
+	/*inici cont_participa*/
+#fitxa{
+	font-size:18px;
+	width:160px;
+	height:25px;
+	background-color:#47423F;
+	border-radius:15px;
+	margin-left:100px;
+	margin-top:10px;
+	text-align:center;
+	box-shadow: 0px 0px 3px 1px #47423F;
+}
+#fitxa:active{
+	box-shadow: 0px 0px 5px 2px #000103 inset;
+}
+	/*fi cont_participa*/
+	/*inici cont_contacte*/
+.contact{
+	float:left;
+	width:220px;
+	height:560px;
+	margin-left:10px;
+	text-align:justify;
+	padding:10px;
+}
+fieldset{
+	border:0px;
+}
+textarea{
+    resize: none;
+}
+#valida{
+	visibility:none;
+	margin-top:10px;
+	border:0px;
+	width:50px;
+	height:20px;
+}
+#enviat{
+	display:block;
+	width:60px;
+	height:20px;
+}
+	/*fi cont_contacte*/
+	/*inici cont_galeria*/
+#men_gal{
+	width:440px;
+	margin:auto;
+	text-align:center;
+	margin-top:25px;
+}
+.boto_gal{
+	float:left;
+	width:90px;
+	margin-left:10px;
+	margin-right:10px;
+	font-family:"walking";
+	font-size:25px;
+}
+#visu_gal{
+	width:980px;
+	height:450px;
+	margin:10px;
+	border:0px;
+	overflow:hidden;
+}
+	/* fi cont_gal*/
+	/*inici cont_pasades*/
+#cont_pasades{
+	background-image:url('../img/construccio.png');
+}
+#men_pasa{
+	float:left;
+	width:200px;
+	height:550px;
+	margin-left:10px;
+}
+.bot_pasa{
+	cursor:pointer;
+}
+.vis_pasa{
+	position:absolute;
+	margin-left:210px;
+	width:770px;
+	height:550px;
+	display:none;
+}
+.vis_pasa_rot{
+	position:absolute;
+	margin-left:210px;
+	width:770px;
+	height:550px;
+}
+	/*fi cont_pasades*/
+	/*inici cont_concurs*/
+	#visu_con{
+		width:1000px;
+		height:560px;
+		border:0px;
+		margin:0px;
+		overflow:hidden;
+	}
+	/*fi cont_concurs*/
+/*fi CONTENT*/
+
+/*inici FOOTER*/
+#footer{
+	height:40px;
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	font-family:"Courier New";
+}
+#alianca_peu{
+	display:block;
+	float:left;
+	width:300px;
+	height:30px;
+}
+#creador{
+	display:block;
+	float:right;
+	height:30px;
+	font-family:"Courier New";
+	font-weight:bolder;
+}
+/*fi FOOTER*/
+/* inici reproductors*/
+#fons_reproductors{
+	position:fixed;
+	width:100%;
+	height:100%;
+	background-color:rgba(0,0,0,0.9);
+	top:0px;
+	left:0px;
+	z-index:60;
+	display:none;
+}
+#mostra_concurs{
+	width:850px;
+	height:490px;
+	margin:auto;
+	background-color: #150000;
+	margin-top:40px;
+}
+#titol_curt{
+	width: 100%;
+    font-size: 30px;
+}
+#reproductor_curt{
+	width:640px;
+	height:360px;
+	margin-left:5px;
+}
+#info_curt{
+	width:190px;
+	float:right;
+	height:360px;
+	margin-right:5px;
+	padding-right:5px;
+}
+#director_curt{
+	font-size:12px;
+}
+#any_curt{
+	font-size:12px;
+}
+#sinopsis_curt{
+	font-size:12px;
+	text-align:justify;
+}
+.dec_curt{
+ text-decoration:underline;
+ font-size:15px;
+}
+#votacio{
+	width:100%;
+	text-align:right;
+}
+.votar{
+width: 130px;
+height: 70px;
+background-color: black;
+border: 0px;
+margin-right: 21px;
+border-radius: 5px;
+color: #97A5A5;
+font-family: "walking";
+font-size:40px;
+cursor:pointer;
+}
+.novotar{
+	width: 130px;
+	height: 70px;
+	background-color: black;
+	border: 0px;
+	margin-right: 21px;
+	border-radius: 5px;
+	color: #97A5A5;
+	font-family: "walking";
+	font-size:40px;
+}
+#tanca_curt{
+	float: right;
+	background-color: black;
+	width: 20px;
+	height: 20px;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 90px;
+	border: 2px solid #97A5A5;
+	line-height: 15px;
+	cursor:pointer;
+}
+/*fi reproductors*/
+/* Enllaços*/
+a:link{color:#97A5A5;text-decoration:none;}
+a:visited{color:#97A5A5;text-decoration:none;}
+a:hover{color:#97A5A5;text-decoration:none;}
+/*Fi enllaços*/

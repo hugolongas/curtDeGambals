@@ -1,0 +1,108 @@
+/**********************************************************************************************************/
+/*********************************FULLA D'ESTILS DE LA WEB CURT DE GAMBALS*********************************/
+/****************************************autor:Hugo Longás Costa*******************************************/
+/****************************************email:hugolo3@gmail.com*******************************************/
+/*********************************drets reservats a l'aliança Lliçà d'Amunt********************************/
+/******************************************web:lalianca.cat************************************************/
+/**********************************************************************************************************/
+
+/*inici de les fonts personalitzades*/
+@font-face{
+	font-family:'walking';
+	src: url('../fonts/walking.otf');
+}
+@font-face{
+	font-family:'aller';
+	src: url('../fonts/Aller_Bd.otf');
+}
+@font-face{
+	font-family:'days';
+	src: url('../fonts/days.otf');
+}
+/*fi de les fonts personalitzades*/
+body{
+	background-color:#000103;
+	color:#97A5A5;
+	font-family:"aller";
+}
+#cont_concurs{
+	width:1000px;
+	height:560px;
+}
+#curts{
+	width:1000px;
+	height:490px;
+	overflow:hidden;
+}
+#moqueta_curts{
+	position:relative;
+	width:1000px;
+	height:490px;
+}
+.pag{
+	float:left;
+	width:1000px;
+	height:490px;
+}
+.curt{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-top: 35px;
+	background-color: #150000;
+	margin-left: 37px;
+}
+.titol_curt{
+	display: block;
+	width: 200px;
+	height: 21px;
+	font-size: 20px;
+	border-bottom-width: 3px;
+	border-bottom-style: double;
+}
+.director_curt{
+    display: block;
+    width: 200px;
+    height: 25px;
+    font-size: 12px;
+}
+.imag{
+	display: block;
+	width: 150px;
+	height: 120px;
+	margin-left: 22px;
+	margin-bottom: 5px;
+	background-color:black;
+}
+.vots{
+	display: block;
+	width: 59px;
+	height: 20px;
+	margin-left: 135px;
+}
+#paginas{
+	height:20px;
+	margin:auto;
+	text-align:center;
+}
+.iraPag{
+	width: 20px;
+	height: 20px;
+	margin-right: 5px;
+	display: block;
+	float: left;
+	cursor:pointer;
+}
+.activa{
+	cursor: default;
+	color: #FFA500;
+}
+.votat{
+	background-color:#201006;
+}
+
+/* Enllaços*/
+a:link{color:#97A5A5;text-decoration:none;}
+a:visited{color:#97A5A5;text-decoration:none;}
+a:hover{color:#97A5A5;text-decoration:none;}
+/*Fi enllaços*/

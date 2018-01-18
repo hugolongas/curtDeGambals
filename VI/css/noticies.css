@@ -1,0 +1,41 @@
+@font-face{
+	font-family:'aller';
+	src: url('../fonts/Aller_Bd.otf');
+}
+body{
+	font-family:"aller";
+	color:#97A5A5;
+	width:346px;
+	margin:0px;
+}
+#moqueta_noti{
+	position:relative;
+	width:346px;
+	height:auto;
+}
+.noti{
+	width:336px;
+	height:460px;
+	padding:5px;
+	text-align:justify;
+}
+.tit_not{
+	display:block;
+	font-size:20px;
+	margin-top:5px;
+	margin-bottom:10px;
+}
+.img_verti{
+	margin-left:24px;
+}
+.img_hori{
+}
+.album{
+	display:block;
+	margin-top:10px;
+	font-size:15px;
+	text-align:center;
+}
+a:link{color:#97A5A5;font-family:"aller";text-decoration:none;}
+a:visited{color:#97A5A5;font-family:"aller";text-decoration:none;}
+a:hover{color:#97A5A5;font-family:"aller";text-decoration:none;}

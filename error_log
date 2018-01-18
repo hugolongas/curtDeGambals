@@ -1,0 +1,373 @@
+[07-Apr-2017 01:11:54 America/Chicago] PHP Notice:  Undefined index: asun in /home/lalianca/public_html/Curtdegambals/envia.php on line 18
+[07-Apr-2017 01:11:54 America/Chicago] PHP Notice:  Undefined index: misa in /home/lalianca/public_html/Curtdegambals/envia.php on line 19
+[07-Apr-2017 01:11:54 America/Chicago] PHP Notice:  Undefined index: nom in /home/lalianca/public_html/Curtdegambals/envia.php on line 20
+[07-Apr-2017 01:11:54 America/Chicago] PHP Notice:  Undefined index: email in /home/lalianca/public_html/Curtdegambals/envia.php on line 20
+[07-Apr-2017 01:11:54 America/Chicago] PHP Notice:  Undefined index: email in /home/lalianca/public_html/Curtdegambals/envia.php on line 21
+[12-Apr-2017 10:27:15 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:27:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:27:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:27:15 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:27:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 17
+[12-Apr-2017 10:27:15 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 49
+[12-Apr-2017 10:27:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 51
+[12-Apr-2017 10:27:20 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:27:20 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:27:20 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:27:20 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:27:20 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 17
+[12-Apr-2017 10:27:20 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 49
+[12-Apr-2017 10:27:20 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 51
+[12-Apr-2017 10:27:21 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:27:21 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:27:21 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:27:21 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:27:21 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 17
+[12-Apr-2017 10:27:21 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 49
+[12-Apr-2017 10:27:21 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 51
+[12-Apr-2017 10:42:18 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:42:18 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:42:18 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:42:18 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:42:18 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 17
+[12-Apr-2017 10:42:18 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 49
+[12-Apr-2017 10:42:18 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 51
+[12-Apr-2017 10:42:27 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:42:27 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:42:27 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:42:27 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:42:27 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 17
+[12-Apr-2017 10:42:27 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 49
+[12-Apr-2017 10:42:27 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 51
+[12-Apr-2017 10:42:28 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:42:28 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:42:28 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:42:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:42:28 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 17
+[12-Apr-2017 10:42:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 49
+[12-Apr-2017 10:42:28 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 51
+[12-Apr-2017 10:42:30 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:42:30 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:42:30 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:42:30 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:42:30 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 17
+[12-Apr-2017 10:42:30 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 49
+[12-Apr-2017 10:42:30 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 51
+[12-Apr-2017 10:52:51 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:52:51 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:52:51 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:52:51 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:52:51 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:52:57 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:52:57 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:52:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:52:57 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:52:57 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:53:04 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:53:04 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:53:04 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:53:04 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:53:04 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:53:57 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:53:57 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:53:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:53:57 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:53:57 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:53:57 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:53:59 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:53:59 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:53:59 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:53:59 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:53:59 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:53:59 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:00 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:00 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:00 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:00 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:01 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:01 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:01 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:01 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:01 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:01 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:01 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:01 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:01 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:01 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:01 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:01 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:01 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:01 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:01 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:01 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:01 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:01 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:01 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:02 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:02 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:03 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:03 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:03 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:03 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:03 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:03 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:03 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:03 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:03 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:03 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:03 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:03 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:03 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:03 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:03 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:03 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:54:03 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:03 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 15
+[12-Apr-2017 10:54:30 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:54:30 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:30 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:54:30 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:57:01 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:57:01 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:57:01 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:57:01 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:57:01 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:57:01 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:57:04 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:57:04 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:57:04 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:57:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:57:04 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:57:04 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:57:04 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:57:04 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:57:04 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:57:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:57:04 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:57:04 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:57:24 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:57:24 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:57:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:57:24 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:57:24 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:57:24 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:58:22 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:58:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:58:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:58:22 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:58:22 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:58:22 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:58:44 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:58:44 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:58:44 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:58:44 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:58:44 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:58:44 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:58:46 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:58:46 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:58:46 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:58:46 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:58:46 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:58:46 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:59:10 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:59:10 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:59:10 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:59:10 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:59:10 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:59:10 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:59:18 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:59:18 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:59:18 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:59:18 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:59:18 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:59:18 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:59:20 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:59:20 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:59:20 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:59:20 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:59:20 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:59:20 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:59:35 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 10:59:35 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:59:35 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 10:59:35 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 10:59:35 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 10:59:35 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 14
+[12-Apr-2017 11:01:01 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:01:01 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 11:01:01 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 11:01:01 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs1.php on line 10
+[12-Apr-2017 11:01:01 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs1.php on line 14
+[12-Apr-2017 11:01:01 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs1.php on line 14
+[12-Apr-2017 11:01:58 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:01:58 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 11:01:58 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 4
+[12-Apr-2017 11:01:58 America/Chicago] PHP Notice:  Undefined variable: mysqli in /home/lalianca/public_html/Curtdegambals/curt_concurs1.php on line 10
+[12-Apr-2017 11:01:58 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/lalianca/public_html/Curtdegambals/curt_concurs1.php on line 10
+[12-Apr-2017 11:02:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:02:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:02:43 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/lalianca/public_html/Curtdegambals/curt_concurs1.php on line 13
+[12-Apr-2017 11:03:01 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:03:01 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:03:01 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/lalianca/public_html/Curtdegambals/curt_concurs1.php on line 13
+[12-Apr-2017 11:03:03 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:03:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:03:03 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/lalianca/public_html/Curtdegambals/curt_concurs1.php on line 13
+[12-Apr-2017 11:03:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:03:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:03:11 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 10
+[12-Apr-2017 11:03:11 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 17
+[12-Apr-2017 11:04:04 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:04:04 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:04:04 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 16
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:04 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:04:38 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 11:04:38 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 16
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 11:04:38 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 15:30:37 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 15:30:37 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 16
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:30:37 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 15:31:39 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lalianca/public_html/Curtdegambals/conecta_sql.php on line 3
+[12-Apr-2017 15:31:39 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 16
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112
+[12-Apr-2017 15:31:39 America/Chicago] PHP Notice:  Undefined variable: id_usuari in /home/lalianca/public_html/Curtdegambals/curt_concurs.php on line 112

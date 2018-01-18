@@ -1,0 +1,76 @@
+@font-face{
+	font-family:'Sketch';
+	src: url('../../fonts/Sketch.ttf');
+}
+@font-face{
+	font-family:'aller';
+	src: url('../../fonts/Aller_Bd.otf');
+}
+@font-face{
+	font-family:'days';
+	src: url('../../fonts/days.otf');
+}
+body{
+	background-image:url('../../img/VII/background.jpg');
+	background-repeat:no-repeat;
+	background-position:fixed;
+	background-size:cover;
+	width:950px;
+	margin:auto;
+	font-family:"aller";
+}
+#header{
+	width:100%;
+	font-size:120px;
+	font-family:"Sketch";
+	color:#E69509;
+	text-align:center;
+	margin-top:100px;
+}
+#tempo{
+	color:#E69509;
+	text-align:center;
+	width:1020px;
+}
+img{
+	text-align:center;
+}
+.tit{
+  font-size:90px;
+ }
+ .llet{
+  font-size:40px;
+  color:black;
+  padding:0px;
+  margin:0px;
+  color:#958181;
+ }
+ .num{
+  font-size:60px;
+  width:25%;
+  padding:0px;
+  margin:0px;
+  font-family:"days";
+ }
+table{
+	margin:auto;
+}
+#footer{
+	width:950px;
+	position:absolute;
+	bottom:5px;
+	color:white;
+}
+a:link{color:white;text-decoration:none;}
+a:visited{color:white;text-decoration:none;}
+a:hover{color:white;text-decoration:none;}
+#segueix{
+	width:250px;
+	float:left;
+}
+.link{
+	float:left;
+}
+#ali{
+	float:right;
+}

@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title>Curt de Gambals | Concurs de Curtmetratges</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Web del festival curt de gambals, aqui podras trobar tota la informació relacionada amb el festival.">
+<meta name="keywords" content="festival, curts, cortos, shortfilm, gambals, short, films">
+<meta name="author" content="Hugo Longás">
+<meta name="contact" content="hugolo3@gmail.com">
+<meta name="author" content="Riccardo Di Natale">
+<meta name="contact" content="ricci.dinatale@gmail.com">
+
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+<link href="css/inscripcio.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/path/to/shared/js/EventHelpers.js"></script>
+<script type="text/javascript" src="/path/to/shared/js/cssQuery-p.js"></script>
+<script type="text/javascript" src="/path/to/shared/js/jcoglan.com/sylvester.js"></script>
+<script type="text/javascript" src="/path/to/shared/js/cssSandpaper.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="contenedor">
+	<div id="header">
+		<a href="http://www.curtdegambals.lalianca.cat"><h1 class="tit">CURT DE GAMBALS</h1></a>
+		<div  class="logo">
+			<a href="http://www.lalianca.cat" target="_blank"><img src="img/alianca-logo.png" alt="logo ateneu l'aliança"></a>
+			<div id="idioma">
+				<a href="/"><img src="img/catala.png"></a>
+				<a href="es/"><img src="img/castellano.png"></a>
+				<a href="en/"><img src="img/english.png"></a>
+			</div>
+		</div>
+		<div id="follow">
+			<span class="tit_fol">Segeix-nos:</span>
+			<a href="https://www.facebook.com/curtdegambals" target="_blank"><img src="img/face.png"></a>
+			<a href="http://www.youtube.com/gambals" target="_blank"><img src="img/you.png"></a>
+			<a href="https://twitter.com/curtdegambals" target="_blank"><img src="img/twitter.png"></a>
+		</div>
+	</div>
+	<div  id="form_contenidor">
+	<form id="inscripcio" method="POST" action="inscripcio.php" accept-charset="UTF-8">
+		<fieldset>
+			<legend>Dades del concursant:</legend>
+			<table>
+				<tr>
+					<td>	
+						Nom i Cognoms (director):
+					</td>
+					<td>					
+						DNI/NIF:
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<input type="text" name="nom" width="100%" required />
+					</td>
+					<td>
+						<input type="text" name="dni"  width="100%" required />
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						Data de naixement:
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<input type="date" name="naixement"  required />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Població
+					</td>
+					<td>
+						Codi Postal
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<input type="text" name="poblacio"  required />
+					</td>
+					<td>
+						<input type="text" name="codPostal"  required />
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						Adreça
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<input type="text" name="adresa"  required />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Telèfon
+					</td>
+					<td>
+						E-mail
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<input type="tel" name="tel"  required />
+					</td>
+					<td>
+						<input type="email" name="email"  required />
+					</td>
+				</tr>				
+			</table>			
+		</fieldset>
+		<fieldset>
+			<legend>Dades del curtmetratge</legend>
+			<table>
+				<tr>
+					<td colspan="2">
+						Titol de l'obra
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<input type="text" name="titol_curt"  required />
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						Sinopsi:
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<textarea name="sinopsi"  required >
+						</textarea>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Durada:
+					</td>
+					<td>
+						Any:
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<input type="number" name="durada"  required />
+					</td>
+					<td>
+						<input type="number" name="any" required />
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						Link (URL):
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<input type="text" name="url" required />
+					</td>
+				</tr>
+				</table>
+		</fieldset>
+		<fieldset>
+			<legend>Concurs web</legend>
+			<p>Clicant aquesta opció el teu curtmetratge concursarà dins
+			la categoria que ofereix el festival Curt de Gambals dins
+			la seva pàgina web. Un cop finalitzat el termini d’entrega
+			(30 de setembre de 2017), els curtmetratges que ho hagin
+			desitjat, es trobaran visibles a la web.<br />
+			Les obres presentades a concurs podran trobar dins la secció
+			“Concurs Web”. El curt més votat serà el guanyador. Les
+			votacions al web estan obertes a tothom. El termini de
+			votacions s’obra l’1 de novembre i tanca el 30 del mateix
+			mes. L’entrega del premi es realitzarà Diumenge 1 de Juny
+			a l’Ateneu de l’Aliança de Lliçà d’Amunt.<p />
+			<input type="checkbox" name="concurs_web" value="1" unc>Participar</input>
+		</fieldset>
+		<fieldset>
+			L'Ateneu l'Aliança es reserva el dret d'explotació de les obres presentades a concurs amb finalitats no lucratives. Queda garantit l'accés, modificació i supressió de les dades personals facilitades.
+			<br/>
+			<input type="checkbox" name="acceptar_bases" value="1" required >Acceptar
+		</fieldset>
+		<fieldset>
+			<table>
+				<tr>
+					<td>
+						<button type="submit" >Enviar</button>
+					</td>
+					<td>
+						<button type="reset">Borrar</button>
+					</td>
+				</tr>
+			</table>
+		</fieldset>
+	</form>
+	</div>
+</div>
+<div id="footer">
+<span id="alianca_peu">Ateneu l'Aliança (2013-2014)</span>
+<div class="fb-like" data-href="http://www.curtdegambals.lalianca.cat" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+<span id="creador">powered: <a href="mailto:hugolo3@gmail.com">Hugo Longás Costa</a></span>
+</div>
+</body>
+</html>
